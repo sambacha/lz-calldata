@@ -1,0 +1,27 @@
+{
+  "name": "lz-calldata",
+  "version": "1.0.0",
+  "description": "### Errors  ```rust #[Err(E)]! kind: measureCallGas failed ```",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/lz-calldata.git"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambacha/lz-calldata/issues"
+  },
+  "homepage": "https://github.com/sambacha/lz-calldata#readme",
+  "dependencies": {
+    "solc": "^0.8.13",
+    "web3": "^1.7.3"
+  }
+}
